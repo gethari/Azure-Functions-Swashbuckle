@@ -1,0 +1,14 @@
+{
+  "version": "2.0",
+  "extensions": {
+    "Swashbuckle": {
+      "Documents": [
+        {
+          "Title": "Demo Function App for Stackoverflow",
+          "Version": "v1",
+          "Description": "Testing if swashbuckle works"
+        }
+      ]
+    }
+  }
+}
